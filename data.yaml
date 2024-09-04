@@ -1,0 +1,6 @@
+train: '/content/gdrive/My Drive/Dataset_YOLO/train/images'
+val: '/content/gdrive/My Drive/Dataset_YOLO/valid/images'
+test: '/content/gdrive/My Drive/Dataset_YOLO/test/images'
+
+nc: 1
+names: ['Cloud']
